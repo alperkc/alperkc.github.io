@@ -1,2 +1,2 @@
-# alperkc.github.io
+# Alper Kantarci
 Personal Web Page
