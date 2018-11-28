@@ -1,2 +1,2 @@
-# alperkc.github.com
+# alperkc.github.io
 Personal Web Page
